@@ -4,7 +4,7 @@
 <img src="https://img.shields.io/badge/-Python-F2C63C.svg?logo=python&style=for-the-badge">
 
 ### コマンド一覧
-| コマンド   | 引数     |実際に起こる処理      |
+| コマンド   | 引数     |処理               |
 |------------|----------|--------------------|
 |series      |alpha, e, initial, length trans_period|設定したパラメータに対応するGCMの時系列を生成|
 |save_csv_file|x_list, y_list|リストをcsvファイルに保存|
